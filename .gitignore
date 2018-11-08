@@ -7,4 +7,5 @@ node_modules
 /images1
 
 package-lock.json
-/miaomiaomiao/*
+miaomiaomiao/*
+miaomiaomiao
